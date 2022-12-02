@@ -1,4 +1,4 @@
-GET http://localhost:3003/character
+GET http://localhost:3003/character?name=Deadpoll
 
 ###
 
@@ -10,3 +10,7 @@ Content-Type: application/json
     "gender": "MALE",
     "description": "O irmão do Professor X!"
 }
+
+###
+
+DELETE http://localhost:3003/character/6
