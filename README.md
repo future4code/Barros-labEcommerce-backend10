@@ -5,7 +5,7 @@
 
 <a href=https://documenter.getpostman.com/view/22376367/2s8YzL3kWw>Clica em mim</a>
 
-## Deploy no Render
+## 📚 Deploy no Render
 
 <a href=#>Olha eu aqui</a>
 
@@ -29,4 +29,5 @@
 
 ---
 ##  🧭 Status do Projeto
- - Concluido 
+ 
+ - ✔️ Concluido 
