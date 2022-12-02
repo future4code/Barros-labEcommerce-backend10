@@ -1,0 +1,16 @@
+GET http://localhost:3003/character?name=o&orderType=DESC
+
+###
+
+PUT http://localhost:3003/character
+Content-Type: application/json
+
+{
+    "name": "Iron Man",
+    "gender": "MALE",
+    "description": "O empresário e bilionário Tony Stark"
+}
+
+###
+
+DELETE http://localhost:3003/character/8
