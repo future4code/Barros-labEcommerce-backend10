@@ -1,4 +1,4 @@
-GET http://localhost:3003/character?name=Deadpoll
+GET http://localhost:3003/character?name=o&orderType=DESC
 
 ###
 
@@ -6,11 +6,11 @@ PUT http://localhost:3003/character
 Content-Type: application/json
 
 {
-    "name": "Juggernaut",
+    "name": "Iron Man",
     "gender": "MALE",
-    "description": "O irmão do Professor X!"
+    "description": "O empresário e bilionário Tony Stark"
 }
 
 ###
 
-DELETE http://localhost:3003/character/6
+DELETE http://localhost:3003/character/8
